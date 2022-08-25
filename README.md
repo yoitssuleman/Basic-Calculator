@@ -1,9 +1,9 @@
 # Basic-Calculator
-Just a basic calculator I made using python using If and elif loops!
+Just a basic calculator I made in python using If and elif loops!
 ```python
 #PUT YOUR NUMBER 
 number_1 = int(input("what is your first number? "))
-#PUT YOUR OPRETAVIE
+#PUT YOUR OPRETIVE
 print("chose an opretive from + - * / ")
 opp = input()
 #PUT YOUR 2ND NUMBER 
